@@ -63,9 +63,9 @@ namespace Muistipeli.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Audi {
+        internal static System.Drawing.Bitmap car1 {
             get {
-                object obj = ResourceManager.GetObject("Audi", resourceCulture);
+                object obj = ResourceManager.GetObject("car1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -73,9 +73,9 @@ namespace Muistipeli.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap BMV {
+        internal static System.Drawing.Bitmap car10 {
             get {
-                object obj = ResourceManager.GetObject("BMV", resourceCulture);
+                object obj = ResourceManager.GetObject("car10", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -83,9 +83,9 @@ namespace Muistipeli.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Chervolet {
+        internal static System.Drawing.Bitmap car11 {
             get {
-                object obj = ResourceManager.GetObject("Chervolet", resourceCulture);
+                object obj = ResourceManager.GetObject("car11", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -93,9 +93,9 @@ namespace Muistipeli.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Ferrari {
+        internal static System.Drawing.Bitmap car12 {
             get {
-                object obj = ResourceManager.GetObject("Ferrari", resourceCulture);
+                object obj = ResourceManager.GetObject("car12", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -103,9 +103,9 @@ namespace Muistipeli.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Ford {
+        internal static System.Drawing.Bitmap car13 {
             get {
-                object obj = ResourceManager.GetObject("Ford", resourceCulture);
+                object obj = ResourceManager.GetObject("car13", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -113,9 +113,9 @@ namespace Muistipeli.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Honsa {
+        internal static System.Drawing.Bitmap car14 {
             get {
-                object obj = ResourceManager.GetObject("Honsa", resourceCulture);
+                object obj = ResourceManager.GetObject("car14", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -123,9 +123,9 @@ namespace Muistipeli.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Jeep {
+        internal static System.Drawing.Bitmap car15 {
             get {
-                object obj = ResourceManager.GetObject("Jeep", resourceCulture);
+                object obj = ResourceManager.GetObject("car15", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -133,9 +133,9 @@ namespace Muistipeli.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap lambo {
+        internal static System.Drawing.Bitmap car17 {
             get {
-                object obj = ResourceManager.GetObject("lambo", resourceCulture);
+                object obj = ResourceManager.GetObject("car17", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -143,9 +143,9 @@ namespace Muistipeli.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Merzedes {
+        internal static System.Drawing.Bitmap car19 {
             get {
-                object obj = ResourceManager.GetObject("Merzedes", resourceCulture);
+                object obj = ResourceManager.GetObject("car19", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -153,9 +153,9 @@ namespace Muistipeli.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Porche {
+        internal static System.Drawing.Bitmap car2 {
             get {
-                object obj = ResourceManager.GetObject("Porche", resourceCulture);
+                object obj = ResourceManager.GetObject("car2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -163,9 +163,9 @@ namespace Muistipeli.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Skyline {
+        internal static System.Drawing.Bitmap car20 {
             get {
-                object obj = ResourceManager.GetObject("Skyline", resourceCulture);
+                object obj = ResourceManager.GetObject("car20", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -173,9 +173,69 @@ namespace Muistipeli.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Tesla {
+        internal static System.Drawing.Bitmap car3 {
             get {
-                object obj = ResourceManager.GetObject("Tesla", resourceCulture);
+                object obj = ResourceManager.GetObject("car3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap car4 {
+            get {
+                object obj = ResourceManager.GetObject("car4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap car5 {
+            get {
+                object obj = ResourceManager.GetObject("car5", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap car6 {
+            get {
+                object obj = ResourceManager.GetObject("car6", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap car7 {
+            get {
+                object obj = ResourceManager.GetObject("car7", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap car8 {
+            get {
+                object obj = ResourceManager.GetObject("car8", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap car9 {
+            get {
+                object obj = ResourceManager.GetObject("car9", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -186,66 +246,6 @@ namespace Muistipeli.Properties {
         internal static System.Drawing.Bitmap thinkingsmiley {
             get {
                 object obj = ResourceManager.GetObject("thinkingsmiley", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap ToyCar {
-            get {
-                object obj = ResourceManager.GetObject("ToyCar", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap ToyCarGreen {
-            get {
-                object obj = ResourceManager.GetObject("ToyCarGreen", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap ToyCarRed {
-            get {
-                object obj = ResourceManager.GetObject("ToyCarRed", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap ToyCarWhite {
-            get {
-                object obj = ResourceManager.GetObject("ToyCarWhite", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap Veyron {
-            get {
-                object obj = ResourceManager.GetObject("Veyron", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap Volvo {
-            get {
-                object obj = ResourceManager.GetObject("Volvo", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

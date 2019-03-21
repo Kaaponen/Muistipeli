@@ -137,5 +137,62 @@
   <ItemGroup>
     <None Include="Resources\thinkingsmiley.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\testi.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\car %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\car %282%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\car %283%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\car %284%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\car %285%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\car %286%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\car %287%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\car %288%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\car %289%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\car %2810%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\car %2811%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\car %2812%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\car %2813%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\car %2814%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\car %2815%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\car %2817%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\car %2819%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\car%2820%29.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
